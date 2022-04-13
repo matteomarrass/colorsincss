@@ -1,0 +1,52 @@
+body {
+    background-color: beige;
+}
+h1 {
+    text-align: center;
+}
+
+h1, h2, p {
+    font-family: 'Merriweather', serif;
+}
+
+#red {
+    color: red;
+}
+#green {
+    color: green;
+}
+
+#blue {
+    color: blue;
+}
+.title {
+    text-align: center;
+}
+table, td {
+    border: 1px solid black;
+}
+#aquamarine {
+    background-color: rgb(127,255,212);
+}
+#crimson {
+    background-color: rgb(220,20,60);
+}
+#darkgreen {
+    background-color: rgb(1,50,32);
+}
+#ivory {
+    background-color: rgb(255,255,240);
+}
+
+#vchiaro {
+    background-color: #9FE2BF;
+}
+#orange {
+    background-color: #FF7F50;
+}
+#violet {
+    background-color: #CCCCFF;
+}
+#giallo {
+    background-color: #DFFF00;
+}
